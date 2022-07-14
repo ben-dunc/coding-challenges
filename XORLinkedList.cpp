@@ -3,7 +3,6 @@
 // on July 14, 2022
 // Time: 30 mins on July 14, 2022
 
-
 /*
 This was in the email:
 
@@ -51,23 +50,26 @@ Plan:
 3.  Implement a main
 */
 
-// Create XNode class here
+// XORNode class
+template<class T>
+class XORNode {
+    private: 
 
-// Create 
+    XORNode *node;
+    T data;
+};
 
+// XORLinkedList class
+class XORLinkedList {
+    private:
+    XORNode root;
+
+};
 
 // Create main function here to test code.
+int main() {
 
-
-
-
-
-
-
-
-
-
-
+}
 
 /*
     Citations:
