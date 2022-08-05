@@ -50,6 +50,8 @@ Plan:
 3.  Implement a main
 */
 
+using namespace std;
+
 // XORNode class
 template<class T>
 class XORNode {
@@ -60,10 +62,10 @@ class XORNode {
 };
 
 // XORLinkedList class
+template<class T>
 class XORLinkedList {
     private:
-    XORNode root;
-
+    XORNode root<T>;
 };
 
 // Create main function here to test code.
