@@ -1,0 +1,1 @@
+Hello, this is my file. I'm testing to see if it is reading the right about of characters. & That ampersand is the 92rd character.
