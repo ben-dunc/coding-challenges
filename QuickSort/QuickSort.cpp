@@ -49,7 +49,7 @@ int main (int argc, char* argv[]) {
 
     quickSort(arr1, 0, NUM_ELEMENTS - 1);
     quickSort(arr2, 0, NUM_ELEMENTS - 1);
-    quickSort(arr1, 0, NUM_ELEMENTS - 1);
+    quickSort(arr3, 0, NUM_ELEMENTS - 1);
     quickSort(arr4, 0, NUM_ELEMENTS - 1);
 
     for (int i = 0; i < NUM_ELEMENTS; i++) {
